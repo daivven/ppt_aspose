@@ -1,0 +1,10 @@
+D:\【临时】\ppt_aspose\ppttest\ppttest\bin\Debug\ppttest.exe
+D:\【临时】\ppt_aspose\ppttest\ppttest\bin\Debug\ppttest.pdb
+D:\【临时】\ppt_aspose\ppttest\ppttest\bin\Debug\Aspose.Slides.dll
+D:\【临时】\ppt_aspose\ppttest\ppttest\bin\Debug\Aspose.Slides.xml
+D:\【临时】\ppt_aspose\ppttest\ppttest\obj\Debug\ResolveAssemblyReference.cache
+D:\【临时】\ppt_aspose\ppttest\ppttest\obj\Debug\ppttest.Form1.resources
+D:\【临时】\ppt_aspose\ppttest\ppttest\obj\Debug\ppttest.Properties.Resources.resources
+D:\【临时】\ppt_aspose\ppttest\ppttest\obj\Debug\ppttest.csproj.GenerateResource.Cache
+D:\【临时】\ppt_aspose\ppttest\ppttest\obj\Debug\ppttest.exe
+D:\【临时】\ppt_aspose\ppttest\ppttest\obj\Debug\ppttest.pdb
